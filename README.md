@@ -7,7 +7,8 @@ The data analyzed includes 67,157 housing prices in New York collected from real
 Analysis reveals that university proximity is indeed significantly correlated with housing price, but so are all other variables such as the number of bedrooms and bathrooms, density of public schools in the area, house and acre size, acceptance rate of the nearest university, etc.  No doubt housing price is a complex value that is influenced by a plethora of factors.  Without an instrumental variable analysis, it will be difficult to discern the causal effect of university proximity on house price.
 
 # 📂 Directory
-- **Research Paper**:  Research Paper
+- **Research Paper**:  Research Paper.pdf
+- **Presentation slides**:  Presentation Slides.pdf
 - **Final Python script**:  Free Real Estate 4-F.ipynb
 - **raw data**:  folder containing all the raw data obtained and used in the project
 - **images**:  images generated for the project
