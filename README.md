@@ -11,3 +11,5 @@ Analysis reveals that university proximity is indeed significantly correlated wi
 - **Final Python script**:  Free Real Estate 4-F.ipynb
 - **raw data**:  folder containing all the raw data obtained and used in the project
 - **images**:  images generated for the project
+
+Note:  I presented this paper with a slightly different title, "How Proximity to a University Affects Housing Affordability for Students in New York."  I had wanted to change the title of my paper to this one, but stuck with the original title and genuinely forgot to change the title back on the presentation.  Anyways, the two titles refer to the same paper.
